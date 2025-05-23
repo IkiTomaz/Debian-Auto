@@ -1,5 +1,5 @@
 apt update && apt upgrade
-apt install nala neovim vlc gedit gnome-disk-utility sudo timeshift lsd firefox-esr goverlay gparted nautilus gnome-tweaks alacritty
+apt install nala neovim vlc gedit preload gnome-disk-utility sudo timeshift lsd firefox-esr goverlay gparted nautilus gnome-tweaks alacritty
 echo "alias upd='nala update'" >> /root/.bashrc
 echo "alias upg='nala upgrade'" >> /root/.bashrc
 echo "alias upd='nala update'" >> /home/iki/.bashrc
